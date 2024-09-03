@@ -1,23 +1,3 @@
-<h1 align="center">Hi, I'm Chris. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Chris+Techonology+Enables+Every+Dream+=+Chris;Blockchain+Engineer;Web+Fullstack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
-</p>
-
-Hi. Nice to meet you all.
-
-I am a Blockchain / Web Fullstack engineer who loves learning sharp-end techonologies in blockchain world.
-
-Before I jumped into the great sea of blockchain field, I worked as a fullstack developer with passion in Javascript | PHP | Python | C/C++.
-
-I love collaborating in open-source projects, writing smart code, learning and teaching each other with my dear colleagues.
-
-I love keeping my eyes on new trends in IT world, learning sharp-end technologies, and working on difficult and challenging tasks.
-
-Thanks very much.
-
-<hr/>
-
 ## 🛠️ My Skills
 
 ### 👉 Blockchain Development
